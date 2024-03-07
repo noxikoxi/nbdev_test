@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://noxikoxi.github.io/nbdev_test"
+  description: "Repository made to learn nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/noxikoxi/nbdev_test"
